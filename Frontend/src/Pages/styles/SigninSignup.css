@@ -109,6 +109,9 @@ h1 {
 .inline-input-svg{
   position: relative;
 }
+.useridPass{
+  width: fit-content;
+}
 
 
 @media (max-width: 868px) {
